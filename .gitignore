@@ -1,0 +1,4 @@
+*.gise
+_xmsgs/
+iseconfig/
+*_summary.html
